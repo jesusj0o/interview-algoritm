@@ -1,6 +1,6 @@
 ##Tech Interview Algorithm
 
-Given a short text in **lowercase**, obtain the **number of repetitions** of each word in the text. 
+Given a short and *clean* text in *lowercase*, obtain the *number of repetitions* of each word in the text. 
 
 - Input: 
   text = "Hi!, hi, I hope you be fine, I hope you have a good day. hi”
